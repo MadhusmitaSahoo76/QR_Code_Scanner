@@ -33,4 +33,4 @@ It allows users to scan QR codes from uploaded images or directly using the devi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/qr-code-scanner.git
+   git clone https://github.com/MadhusmitaSahoo76/QR_Code_Scanner
