@@ -19,8 +19,8 @@ domReady(function () {
   let htmlscanner = new Html5QrcodeScanner(
     "my-qr-reader",
     {
-      fps: 10,          // Frames per second for scanning
-      qrbox: 250        // Scanning box size (pixels)
+      fps: 10,          
+      qrbox: 250        
     },
     /* verbose= */ false
   );
