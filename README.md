@@ -8,6 +8,14 @@ It allows users to scan QR codes from uploaded images or directly using the devi
 ## 📸 Demo
 
 ![QR Code Scanner Screenshot](images/screenshot.png)
+![Image](https://github.com/user-attachments/assets/129d3219-9553-4c67-ae7a-76cac2e5c996)
+
+![Image](https://github.com/user-attachments/assets/a27a1993-96b1-485c-84d0-8238d0d726cc)
+
+![Image](https://github.com/user-attachments/assets/6ab8342e-1cb8-4031-840f-e6f9acf58e7e)
+
+![Image](https://github.com/user-attachments/assets/b412f6c1-c8f4-4924-92e7-4e5edbf22f87)
+
 
 ---
 
