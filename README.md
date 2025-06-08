@@ -32,10 +32,3 @@ It allows users to scan QR codes from uploaded images or directly using the devi
 - CSS3
 - Vanilla JavaScript
 
----
-
-## 🛠️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MadhusmitaSahoo76/QR_Code_Scanner
